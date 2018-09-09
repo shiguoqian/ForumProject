@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ForumProject:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ForumProject_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ForumProject" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="ojdbc6.jar" module-name="ForumProject" />
+          <element id="library" level="module" name="WebContent/WEB-INF/lib/ojdbc6.jar" module-name="ForumProject" />
+          <element id="library" level="module" name="gson-2.2.4.jar" module-name="ForumProject" />
+          <element id="library" level="project" name="commons-beanutils-1.7.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ForumProject/web/Web" />
+    </root>
+  </artifact>
+</component>

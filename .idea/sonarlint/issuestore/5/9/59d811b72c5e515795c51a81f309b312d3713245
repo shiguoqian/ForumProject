@@ -1,0 +1,15 @@
+
+csquid:S1192"FDefine a constant instead of duplicating this literal "false" 3 times.(àÅ38òâŠÓ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û³¯ıÿÿÿÿ8›”‹Ó,
+Fsquid:S1989"(Add a "try/catch" block for "getWriter".(¾šçŞ8Ü§ŠÓ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°È¢åùÿÿÿÿ8×İÅÓ,
+Csquid:S1989"%Add a "try/catch" block for "doPost".(‘›şá8Éı¦‹Ó,
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ê€³¤8åÒ¹ŠÓ,
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñ†–á
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’Â c8œ–ÏŠÓ,
+Esquid:S1989"'Add a "try/catch" block for "parseInt".(øì™À8”ûŠÓ,
+Csquid:S1989"%Add a "try/catch" block for "doPost".(‘›şá8Éı¦‹Ó,
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¼†…˜üÿÿÿÿ8èÅÓ,

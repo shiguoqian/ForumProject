@@ -1,0 +1,20 @@
+
+`squid:S1126˜"AReplace this if-then-else statement by a single return statement.(À…ÍÒ8Ìü¥ŠÓ,
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(—áŸÏ8İ›Ú¼Ò,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÍöÌ»Ò,
+qsquid:S00116"RRename this field "PostDao" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‹€§8§›Ï»Ò,
+W
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(Ûõ¾Õ8İ›Ú¼Ò,
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ªÖæùÿÿÿÿ8İ›Ú¼Ò,
+rsquid:S2159+"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÚŠ×Şûÿÿÿÿ
+V
+squid:S106d"9Replace this use of System.out or System.err by a logger.(”ùš¦8İ›Ú¼Ò,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÂªıÿÿÿÿÿ8İ›Ú¼Ò,
+dsquid:S1126T"AReplace this if-then-else statement by a single return statement.(Õï½şÿÿÿÿ8ı‡µ½Ò,
+esquid:S1126 "AReplace this if-then-else statement by a single return statement.(õ¼·üÿÿÿÿÿ8ÎĞÇŠÓ,
+nsquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŞÕ›ıÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷øêg8×ÉÍÓ,

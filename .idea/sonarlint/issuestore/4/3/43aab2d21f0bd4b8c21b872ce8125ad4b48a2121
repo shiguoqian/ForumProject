@@ -1,0 +1,10 @@
+
+squid:S3008"\Rename this field "ACCESS_KEY_SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©—ώÿÿÿÿ8ό¦άεÒ,
+{squid:S3008"XRename this field "ACCESS_KEY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Φ‡Ωνÿÿÿÿÿ8ό¦άεÒ,
+Gsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ό¦άεÒ,
+nsquid:S3027¥"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(“ΝΏήÿÿÿÿÿ8ό¦άεÒ,
+‚squid:S1488a"_Immediately return this expression instead of assigning it to the temporary variable "fileDir".(ϊ‚Ξªόÿÿÿÿ8ό¦άεÒ,
+psquid:S3008"SRename this field "ENDPOINT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ξεϊH8ό¦άεÒ,
+osquid:CommentedOutCodeLineΞ"<This block of commented-out lines of code should be removed.(Ή“ÿΎύÿÿÿÿ8ό¦άεÒ,
+tsquid:S3008 "VRename this field "BACKET_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªηΎ 8ό¦άεÒ,
+osquid:S3008""QRename this field "FOLDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ξόΩ8ό¦άεÒ,

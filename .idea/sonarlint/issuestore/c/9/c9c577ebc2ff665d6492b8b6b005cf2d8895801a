@@ -1,0 +1,20 @@
+
+[javascript:S1854©0"?Remove this useless assignment to local variable "destElements"(ö’Ðy
+Pjavascript:S1854É?"4Remove this useless assignment to local variable "a"(à¤„&
+Xjavascript:S1854Á?"6Remove this useless assignment to local variable "div"(ÜÆ§þüÿÿÿÿ
+Sjavascript:S1854©0"7Remove this useless assignment to local variable "node"(ö’Ðy
+Hjavascript:S1264š"+Replace this "for" loop with a "while" loop(ïž¾Ü
+Zjavascript:S1854©0">Remove this useless assignment to local variable "srcElements"(ö’Ðy
+Qjavascript:S1656Ë"/Remove or correct this useless self-assignment.(…ÍÏðýÿÿÿÿ
+Kjavascript:EmptyBlockÆ")Either remove or fill this block of code.(Ô‰íÌ
+Mjavascript:S1264’"+Replace this "for" loop with a "while" loop(ÒöÁþøÿÿÿÿ
+njavascript:S2589>"LRefactor this code so that this expression does not always evaluate to true.(’ü¯Ýùÿÿÿÿ
+ljavascript:S3523ÔF"OReview this "Function" call and make sure its arguments are properly validated.(ÉšéŸ
+Yjavascript:S1854ž"7Remove this useless assignment to local variable "name"(ÅàÉ¿ýÿÿÿÿ
+Sjavascript:S1854ö$"6Remove this useless assignment to local variable "tmp"(ú«”è
+ijavascript:S2589È="LRefactor this code so that this expression does not always evaluate to true.(Ÿ¿Ã½
+Sjavascript:S1854%"6Remove this useless assignment to local variable "div"(„”È¦
+Jjavascript:EmptyBlockþ")Either remove or fill this block of code.(ô÷‹`
+Xjavascript:S1854Ó/";Remove this useless assignment to local variable "fragment"(•²ßÖ
+ljavascript:S3403>"JRemove this "!==" check; it will always be true. Did you mean to use "!="?(’ü¯Ýùÿÿÿÿ
+Ujavascript:S1854Ó/"8Remove this useless assignment to local variable "first"(•²ßÖ

@@ -1,0 +1,11 @@
+
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ
+zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(™ê«åüÿÿÿÿ
+Nsquid:S1135."2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Nsquid:S1135G"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+?squid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

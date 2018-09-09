@@ -1,0 +1,8 @@
+
+?squid:S1185"(Remove this method to simply inherit it.(¹Â·Š
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(òÝÒ”üÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(á Ùˆ
+;squid:S1989"$Add a "try/catch" block for "doGet".(Ôü™—
+?squid:S1989 "(Add a "try/catch" block for "getWriter".(¾šçÞ
+bsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(žÌ…ø
+;squid:S1989"$Add a "try/catch" block for "doGet".(Ôü™—

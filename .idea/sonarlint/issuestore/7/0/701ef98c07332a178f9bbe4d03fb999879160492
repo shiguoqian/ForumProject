@@ -1,0 +1,44 @@
+
+Osquid:S1135Õ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+P
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(¦“óø
+@squid:S1148Ö"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135x"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+P
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(ÂƒÛ¾
+dsquid:S1192i"MDefine a constant instead of duplicating this literal "p_experience" 3 times.(£¡¥¨
+vsquid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(†‘ãúÿÿÿÿ
+@squid:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+P
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(à¤ÅĞ
+@squid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148µ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135."2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Œsquid:S1319}"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÃÔËÅÿÿÿÿÿ
+Nsquid:S1135="2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+asquid:S1192h"JDefine a constant instead of duplicating this literal "p_browser" 3 times.(İá¡Í
+qsquid:S2293Î"YReplace the type specification in this constructor call with the diamond operator ("<>").(á™¾¿
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+asquid:S1192h"JDefine a constant instead of duplicating this literal "p_version" 3 times.(İá¡Í
+Osquid:S1135Š"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ñ¼Æùÿÿÿÿ
+ˆsquid:S1319¶"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶·¤·
+@squid:S1148ê"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+dsquid:S1192§"GDefine a constant instead of duplicating this literal "u_name" 3 times.(­Ìãúüÿÿÿÿ
+esquid:S1192g"IDefine a constant instead of duplicating this literal "p_isfine" 3 times.(éøÈšúÿÿÿÿ
+psquid:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÍãŸ
+^squid:S1192i"GDefine a constant instead of duplicating this literal "p_type" 6 times.(£¡¥¨
+Osquid:S1135é"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+squid:S1319Í"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èÈã¤ûÿÿÿÿ
+fsquid:S1192g"JDefine a constant instead of duplicating this literal "p_content" 4 times.(éøÈšúÿÿÿÿ
+`squid:S1192h"IDefine a constant instead of duplicating this literal "like_num" 3 times.(İá¡Í
+@squid:S1148Ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+asquid:S1192i"JDefine a constant instead of duplicating this literal "p_project" 3 times.(£¡¥¨
+dsquid:S1192j"HDefine a constant instead of duplicating this literal "p_check" 3 times.(ì‚îØøÿÿÿÿ
+?squid:S1148o"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135n"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+csquid:S1192g"GDefine a constant instead of duplicating this literal "p_time" 7 times.(éøÈšúÿÿÿÿ
+_squid:S1192f"HDefine a constant instead of duplicating this literal "p_title" 7 times.(ô÷¬
+dsquid:S1192g"HDefine a constant instead of duplicating this literal "p_istop" 3 times.(éøÈšúÿÿÿÿ
+Osquid:S1135¬"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

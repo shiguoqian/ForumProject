@@ -1,0 +1,13 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôÔã€
+?squid:S1989"(Add a "try/catch" block for "getWriter".(¾šçŞ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­á¤
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(õÉ÷õ
+osquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ê€³¤
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(İ¯ÍÀ8ÎÈ¿‡Ó,
+hsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ÜìóR8ÎÈ¿‡Ó,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”•ÿÿÿÿÿÿ
+?squid:S19890"(Add a "try/catch" block for "getWriter".(¾šçŞ
+psquid:UselessImportCheck"LRemove this unused import 'org.apache.commons.fileupload.disk.DiskFileItem'.(ô²¤À

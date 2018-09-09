@@ -1,0 +1,36 @@
+
+@squid:S1148Ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Gsquid:S1148î"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8à‚ìÉÒ,
+?squid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+lsquid:S1192L"IDefine a constant instead of duplicating this literal "p_isfine" 3 times.(ñƒßÂûÿÿÿÿ8£µºÈÒ,
+xsquid:S1192#"\Define a constant instead of duplicating this literal "select rownum r ,t.* from (" 3 times.(–ø§Äüÿÿÿÿ
+esquid:S1192K"HDefine a constant instead of duplicating this literal "p_title" 3 times.(İê§28£µºÈÒ,
+ksquid:S1192L"HDefine a constant instead of duplicating this literal "p_check" 3 times.(ñƒßÂûÿÿÿÿ8£µºÈÒ,
+?squid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+U
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+hsquid:S1192N"JDefine a constant instead of duplicating this literal "p_project" 3 times.(†ğçî8£µºÈÒ,
+Fsquid:S1148o"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£µºÈÒ,
+esquid:S1192N"GDefine a constant instead of duplicating this literal "p_type" 3 times.(†ğçî8£µºÈÒ,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜Òæüÿÿÿÿ
+msquid:S1192M"JDefine a constant instead of duplicating this literal "p_browser" 3 times.(†ğ”¬úÿÿÿÿ8£µºÈÒ,
+msquid:S1192L"JDefine a constant instead of duplicating this literal "p_content" 3 times.(ñƒßÂûÿÿÿÿ8£µºÈÒ,
+hsquid:S1192N"JDefine a constant instead of duplicating this literal "p_version" 3 times.(†ğçî8£µºÈÒ,
+ksquid:S1192M"HDefine a constant instead of duplicating this literal "p_istop" 3 times.(†ğ”¬úÿÿÿÿ8£µºÈÒ,
+psquid:S1192O"MDefine a constant instead of duplicating this literal "p_experience" 3 times.(¨¹Ç²şÿÿÿÿ8£µºÈÒ,
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+lsquid:S1192M"IDefine a constant instead of duplicating this literal "like_num" 3 times.(†ğ”¬úÿÿÿÿ8£µºÈÒ,
+T
+squid:S106R"9Replace this use of System.out or System.err by a logger.(˜Òæüÿÿÿÿ
+U
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+@squid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+lsquid:S1192#"PDefine a constant instead of duplicating this literal "select * from (" 4 times.(–ø§Äüÿÿÿÿ
+jsquid:S1192L"GDefine a constant instead of duplicating this literal "p_time" 3 times.(ñƒßÂûÿÿÿÿ8£µºÈÒ,
+lsquid:S1192$"UDefine a constant instead of duplicating this literal "where r >=? and r<=?" 4 times.(äÃ›§
+\
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8à‚ìÉÒ,
+@squid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

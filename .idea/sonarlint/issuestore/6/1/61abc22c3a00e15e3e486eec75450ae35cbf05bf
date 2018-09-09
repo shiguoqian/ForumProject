@@ -1,0 +1,18 @@
+
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(§ÍÈ¢ùÿÿÿÿ
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¥Úœøÿÿÿÿ
+Dsquid:S1989#"(Add a "try/catch" block for "getWriter".(¸„óÖÿÿÿÿÿ
+<squid:S1989"%Add a "try/catch" block for "doPost".(‘›şá
+Dsquid:S1989H"(Add a "try/catch" block for "getWriter".(¸„óÖÿÿÿÿÿ
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+O
+squid:S106F"9Replace this use of System.out or System.err by a logger.(÷ ÀÕ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(¹Â·Š
+<squid:S1989"%Add a "try/catch" block for "doPost".(‘›şá
+Bsquid:S1989="+Add a "try/catch" block for "sendRedirect".(íƒˆ
+nsquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ±Áóÿÿÿÿÿ
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¢½ù±ûÿÿÿÿ
+>squid:S1989E"'Add a "try/catch" block for "parseInt".(ÁùÑ™
+Bsquid:S19898"+Add a "try/catch" block for "sendRedirect".(íƒˆ

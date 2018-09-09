@@ -1,0 +1,13 @@
+
+e"javascript:MultilineStringLiterals!"7Use string concatenation rather than line continuation.(³“ûâ
+f"javascript:MultilineStringLiterals¬"7Use string concatenation rather than line continuation.(šÈ«Æ
+Yjavascript:UnusedVariable"5Remove the declaration of the unused 'form' variable.(¨ËÆJ
+Zjavascript:UnusedVariable"5Remove the declaration of the unused 'flow' variable.(°êøï
+Zjavascript:UnusedVariable¬"4Remove the declaration of the unused 'tpl' variable.(šÈ«Æ
+Zjavascript:UnusedVariable"5Remove the declaration of the unused 'util' variable.(¹™˜‰
+]javascript:UnusedVariable«"7Remove the declaration of the unused 'delAll' variable.(Æúß¹
+Sjavascript:S1854"7Remove this useless assignment to local variable "flow"(°êøï
+Sjavascript:S1854"7Remove this useless assignment to local variable "util"(¹™˜‰
+Rjavascript:S1854"7Remove this useless assignment to local variable "form"(¨ËÆJ
+Sjavascript:S1854¬"6Remove this useless assignment to local variable "tpl"(šÈ«Æ
+Vjavascript:S1854«"9Remove this useless assignment to local variable "delAll"(Æúß¹

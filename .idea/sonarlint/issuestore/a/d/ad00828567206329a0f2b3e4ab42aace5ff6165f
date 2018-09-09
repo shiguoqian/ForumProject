@@ -1,0 +1,43 @@
+
+Csquid:S1168’"+Return an empty collection instead of null.(¥¹ï
+T
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Íä˜¦ÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û¶Åúÿÿÿÿ
+?squid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135("2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+xsquid:S3923ª"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ó¤Áûùÿÿÿÿ
+\
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(Û¶Åúÿÿÿÿ8Ğã™ŠÓ,
+U
+squid:S106«"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+Nsquid:S1135F"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+ksquid:S1192@"HDefine a constant instead of duplicating this literal "u_email" 3 times.(€Ü‹¨ıÿÿÿÿ8Ğã™ŠÓ,
+Msquid:S1854""6Remove this useless assignment to local variable "id".(Şİ¨š
+Nsquid:S1135{"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S1066"/Merge this if statement with the enclosing one.(ß‰Æ×8‡”ŸŠÓ,
+esquid:S1192>"GDefine a constant instead of duplicating this literal "u_city" 3 times.(¯°²”8Ğã™ŠÓ,
+U
+squid:S106®"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+N
+squid:S106P"9Replace this use of System.out or System.err by a logger.(€À™`
+Osquid:S1135‘"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+isquid:S1192A"FDefine a constant instead of duplicating this literal "u_sex" 3 times.(´¢¤ğşÿÿÿÿ8Ğã™ŠÓ,
+Gsquid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8µ±Ú»Ò,
+Gsquid:S1148»"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğã™ŠÓ,
+esquid:S1192#"GDefine a constant instead of duplicating this literal "u_name" 4 times.(çû÷8Ğã™ŠÓ,
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï•¯8•ˆËÓ,
+Gsquid:S1148“"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ğã™ŠÓ,
+@squid:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+P
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(‰Úáè
+jsquid:S1192$"GDefine a constant instead of duplicating this literal "u_pass" 3 times.(ó³²ßûÿÿÿÿ8Ğã™ŠÓ,
+@squid:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+P
+squid:S106§"9Replace this use of System.out or System.err by a logger.(Ùè»Í
+W
+squid:S106È"9Replace this use of System.out or System.err by a logger.(êŸË8Ğã™ŠÓ,
+Osquid:S1135Á"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Vsquid:S1135¹"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ğã™ŠÓ,

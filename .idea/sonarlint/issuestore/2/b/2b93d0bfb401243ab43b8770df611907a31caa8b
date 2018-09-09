@@ -1,0 +1,9 @@
+
+Jsquid:S1989"'Add a "try/catch" block for "parseInt".(¥Ø‘Îÿÿÿÿÿ8†¹¬¼Ò,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑıìÀÿÿÿÿÿ
+Fsquid:S1989"(Add a "try/catch" block for "getWriter".(¾šçŞ8ƒ¬©¼Ò,
+Csquid:S1989"%Add a "try/catch" block for "doPost".(‘›şá8ã™®¼Ò,
+vsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ê€³¤8‹ª¼Ò,
+Csquid:S1989"%Add a "try/catch" block for "doPost".(‘›şá8ã™®¼Ò,
+Gsquid:S1125 ")Remove the literal "false" boolean value.(ƒÁ„²8ƒ¬©¼Ò,
+Jsquid:S1989"'Add a "try/catch" block for "parseInt".(™—Èşÿÿÿÿ8ƒ¬©¼Ò,

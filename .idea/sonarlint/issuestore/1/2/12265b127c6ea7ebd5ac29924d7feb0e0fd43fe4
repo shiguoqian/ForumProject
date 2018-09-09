@@ -1,0 +1,13 @@
+
+Jsquid:UselessImportCheck"&Remove this unused import 'bean.User'.(ÓÜ•í
+Xsquid:S1126"AReplace this if-then-else statement by a single return statement.(ÛÉ«Û
+]squid:S1126n"AReplace this if-then-else statement by a single return statement.(Ôôûÿÿÿÿ
+Xsquid:S1126~"AReplace this if-then-else statement by a single return statement.(•Â©“
+Nsquid:S1135$"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S1135>"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+]squid:S1126^"AReplace this if-then-else statement by a single return statement.(†„ºşÿÿÿÿ
+ssquid:S1488P"\Immediately return this expression instead of assigning it to the temporary variable "list".(ÓÉ³ë
+Osquid:S1135†"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Œsquid:S1319O"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(èÈã¤ûÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+dsquid:S11261"AReplace this if-then-else statement by a single return statement.(î¯÷şÿÿÿÿ8‰æôËÒ,
